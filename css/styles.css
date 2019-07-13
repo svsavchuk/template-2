@@ -1,0 +1,13 @@
+.large {
+    background-color: lightblue;
+    padding: 40px;
+}
+
+.small {
+    background-color: lightgoldenrodyellow;
+    margin-top: -20px;
+    margin-left: 20px;
+    padding: 50px;
+    width: 50px;
+    float: left;
+}
